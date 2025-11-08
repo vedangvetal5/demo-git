@@ -1,0 +1,11 @@
+cat .gitignore
+*.[oa] //ignore any files ending in “.o” or “.a”
+*~ // ignore files whose names end with a tilde (~)
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
